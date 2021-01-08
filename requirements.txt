@@ -1,4 +1,6 @@
 notebook==6.1.6
 numpy==1.19.4
 pandas==1.2.0
-eprisma==4.0.1
+esprima==4.0.1
+wordcloud==1.8.1
+matplotlib==3.3.3
