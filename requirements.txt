@@ -4,3 +4,4 @@ pandas==1.2.0
 esprima==4.0.1
 wordcloud==1.8.1
 matplotlib==3.3.3
+scikit-learn==0.24.0
